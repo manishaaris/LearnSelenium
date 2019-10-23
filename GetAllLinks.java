@@ -18,6 +18,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 
 public class GetAllLinks {
+	
 	WebDriver driver;
   @Test
   public void f() {
